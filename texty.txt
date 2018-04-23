@@ -1,5 +1,3 @@
 <b>Bold</b>
 Second line there
-Half time there
-Third line there
-That's the line that shouldn't be
+No more lines there
